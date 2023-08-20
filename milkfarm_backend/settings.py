@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-^g5#9c)u*rklws!esz^6g_=vu=y=%qnz-h-oi0ys692i4xgjvn
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["https://milk-backend.vercel.app/"]
 
 
 # Application definition
