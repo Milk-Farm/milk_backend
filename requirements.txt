@@ -12,7 +12,6 @@ chardet==4.0.0
 charset-normalizer==2.0.12
 click==8.0.3
 colorama==0.4.4
-command-not-found==0.3
 contourpy==1.0.6
 cp-tool==2.1.2
 cryptography==38.0.1
